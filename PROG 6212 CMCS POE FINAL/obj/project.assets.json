@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IC\\source\\repos\\PROG 6212 CMCS POE FINAL\\PROG 6212 CMCS POE FINAL.csproj",
+      "projectUniqueName": "C:\\Users\\IC\\OneDrive\\Desktop\\PROG-6212-POE-CMCS-Final\\PROG 6212 CMCS POE FINAL\\PROG 6212 CMCS POE FINAL.csproj",
       "projectName": "PROG 6212 CMCS POE FINAL",
-      "projectPath": "C:\\Users\\IC\\source\\repos\\PROG 6212 CMCS POE FINAL\\PROG 6212 CMCS POE FINAL.csproj",
+      "projectPath": "C:\\Users\\IC\\OneDrive\\Desktop\\PROG-6212-POE-CMCS-Final\\PROG 6212 CMCS POE FINAL\\PROG 6212 CMCS POE FINAL.csproj",
       "packagesPath": "C:\\Users\\IC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IC\\source\\repos\\PROG 6212 CMCS POE FINAL\\obj\\",
+      "outputPath": "C:\\Users\\IC\\OneDrive\\Desktop\\PROG-6212-POE-CMCS-Final\\PROG 6212 CMCS POE FINAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

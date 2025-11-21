@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PROG 6212 CMCS POE FINAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac0db543a1b34d7741428d5372a1c0ffb08d8342")]
 [assembly: System.Reflection.AssemblyProductAttribute("PROG 6212 CMCS POE FINAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PROG 6212 CMCS POE FINAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

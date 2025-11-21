@@ -1,10 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\IC\\source\\repos\\PROG 6212 CMCS POE FINAL\\",
+  "WorkspaceRootPath": "C:\\Users\\IC\\OneDrive\\Desktop\\PROG-6212-POE-CMCS-Final\\PROG 6212 CMCS POE FINAL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{220EED3B-8E37-4CD1-8543-BC770DA46F4E}|PROG 6212 CMCS POE FINAL.csproj|c:\\users\\ic\\source\\repos\\prog 6212 cmcs poe final\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{220EED3B-8E37-4CD1-8543-BC770DA46F4E}|PROG 6212 CMCS POE FINAL.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{544A7769-A20E-7338-B482-8BD0D4D17374}|PROG 6212 CMCS POE FINAL.csproj|c:\\users\\ic\\onedrive\\desktop\\prog-6212-poe-cmcs-final\\prog 6212 cmcs poe final\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544A7769-A20E-7338-B482-8BD0D4D17374}|PROG 6212 CMCS POE FINAL.csproj|solutionrelative:models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544A7769-A20E-7338-B482-8BD0D4D17374}|PROG 6212 CMCS POE FINAL.csproj|c:\\users\\ic\\onedrive\\desktop\\prog-6212-poe-cmcs-final\\prog 6212 cmcs poe final\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544A7769-A20E-7338-B482-8BD0D4D17374}|PROG 6212 CMCS POE FINAL.csproj|solutionrelative:models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544A7769-A20E-7338-B482-8BD0D4D17374}|PROG 6212 CMCS POE FINAL.csproj|c:\\users\\ic\\onedrive\\desktop\\prog-6212-poe-cmcs-final\\prog 6212 cmcs poe final\\models\\uploadmeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544A7769-A20E-7338-B482-8BD0D4D17374}|PROG 6212 CMCS POE FINAL.csproj|solutionrelative:models\\uploadmeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544A7769-A20E-7338-B482-8BD0D4D17374}|PROG 6212 CMCS POE FINAL.csproj|c:\\users\\ic\\onedrive\\desktop\\prog-6212-poe-cmcs-final\\prog 6212 cmcs poe final\\models\\authviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544A7769-A20E-7338-B482-8BD0D4D17374}|PROG 6212 CMCS POE FINAL.csproj|solutionrelative:models\\authviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544A7769-A20E-7338-B482-8BD0D4D17374}|PROG 6212 CMCS POE FINAL.csproj|c:\\users\\ic\\onedrive\\desktop\\prog-6212-poe-cmcs-final\\prog 6212 cmcs poe final\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544A7769-A20E-7338-B482-8BD0D4D17374}|PROG 6212 CMCS POE FINAL.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{544A7769-A20E-7338-B482-8BD0D4D17374}|PROG 6212 CMCS POE FINAL.csproj|c:\\users\\ic\\onedrive\\desktop\\prog-6212-poe-cmcs-final\\prog 6212 cmcs poe final\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{544A7769-A20E-7338-B482-8BD0D4D17374}|PROG 6212 CMCS POE FINAL.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,11 +78,76 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\IC\\OneDrive\\Desktop\\PROG-6212-POE-CMCS-Final\\PROG 6212 CMCS POE FINAL\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "Models\\UserRole.cs",
+              "ToolTip": "C:\\Users\\IC\\OneDrive\\Desktop\\PROG-6212-POE-CMCS-Final\\PROG 6212 CMCS POE FINAL\\Models\\UserRole.cs",
+              "RelativeToolTip": "Models\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T18:55:45.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UploadMeta.cs",
+              "DocumentMoniker": "C:\\Users\\IC\\OneDrive\\Desktop\\PROG-6212-POE-CMCS-Final\\PROG 6212 CMCS POE FINAL\\Models\\UploadMeta.cs",
+              "RelativeDocumentMoniker": "Models\\UploadMeta.cs",
+              "ToolTip": "C:\\Users\\IC\\OneDrive\\Desktop\\PROG-6212-POE-CMCS-Final\\PROG 6212 CMCS POE FINAL\\Models\\UploadMeta.cs",
+              "RelativeToolTip": "Models\\UploadMeta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T18:55:44.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "C:\\Users\\IC\\OneDrive\\Desktop\\PROG-6212-POE-CMCS-Final\\PROG 6212 CMCS POE FINAL\\Models\\Claim.cs",
+              "RelativeDocumentMoniker": "Models\\Claim.cs",
+              "ToolTip": "C:\\Users\\IC\\OneDrive\\Desktop\\PROG-6212-POE-CMCS-Final\\PROG 6212 CMCS POE FINAL\\Models\\Claim.cs",
+              "RelativeToolTip": "Models\\Claim.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T18:55:20.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\IC\\OneDrive\\Desktop\\PROG-6212-POE-CMCS-Final\\PROG 6212 CMCS POE FINAL\\Models\\AuthViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\AuthViewModel.cs",
+              "ToolTip": "C:\\Users\\IC\\OneDrive\\Desktop\\PROG-6212-POE-CMCS-Final\\PROG 6212 CMCS POE FINAL\\Models\\AuthViewModel.cs",
+              "RelativeToolTip": "Models\\AuthViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T18:55:06.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\IC\\OneDrive\\Desktop\\PROG-6212-POE-CMCS-Final\\PROG 6212 CMCS POE FINAL\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\IC\\OneDrive\\Desktop\\PROG-6212-POE-CMCS-Final\\PROG 6212 CMCS POE FINAL\\Models\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T18:54:38.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\IC\\source\\repos\\PROG 6212 CMCS POE FINAL\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\IC\\OneDrive\\Desktop\\PROG-6212-POE-CMCS-Final\\PROG 6212 CMCS POE FINAL\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\IC\\source\\repos\\PROG 6212 CMCS POE FINAL\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\IC\\OneDrive\\Desktop\\PROG-6212-POE-CMCS-Final\\PROG 6212 CMCS POE FINAL\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
